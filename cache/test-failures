@@ -1,0 +1,1 @@
+{"version":1,"failures":[{"contract":"test/M1UncheckedTransferReturn.t.sol:M1UncheckedTransferReturn","test":"testReceiveTokensTransferReturnsFalseButEventStillEmitted"}]}
